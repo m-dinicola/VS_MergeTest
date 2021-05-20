@@ -7,6 +7,7 @@ namespace VS_MergeTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hi, it's Ken");
         }
     }
 }
